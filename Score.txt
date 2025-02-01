@@ -1,0 +1,75 @@
+Player: mika
+Score: 130
+----------
+Player: mika
+Score: 230
+----------
+Player: mika
+Score: 350
+----------
+Player: mika
+Score: 310
+----------
+Player: Bugu
+Score: 270
+----------
+Player: Bugu
+Score: 290
+----------
+Player: Pikachu
+Score: 460
+----------
+Player: Pikachu
+Score: 220
+----------
+Player: mika
+Score: 230
+----------
+Player: mika
+Score: 250
+----------
+Player: mika
+Score: 220
+----------
+Player: mika
+Score: 270
+----------
+Player: meow
+Score: 260
+----------
+Player: mm
+Score: 180
+----------
+Player: miki
+Score: 340
+----------
+Player: meow
+Score: 570
+----------
+Player: sarita sari
+Score: 220
+----------
+Player: Player
+Score: 170
+----------
+Player: Thanos
+Score: 230
+----------
+Player: thanos
+Score: 260
+----------
+Player: thanos
+Score: 290
+----------
+Player: kk
+Score: 360
+----------
+Player: ki
+Score: 220
+----------
+Player: 67
+Score: 110
+----------
+Player: kk
+Score: 240
+----------
